@@ -2,7 +2,7 @@
 
 This application provides an end-to-end document question-and-answer system using Google Gemma, integrated with Streamlit.
 
-<img width="1499" alt="Screenshot 2024-07-07 at 11 47 25 PM" src="https://github.com/arsh248/GemmaDocQuery/assets/62460837/a7a3e484-c68d-4fd7-aa43-16147c85f099">
+<img width="1512" alt="Screenshot 2024-07-18 at 6 57 28 PM" src="https://github.com/user-attachments/assets/6c36dd70-acc1-4631-ab39-ca7ac6b71458">
 
 
 ## Setup
